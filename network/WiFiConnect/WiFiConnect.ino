@@ -1,8 +1,8 @@
 #include <M5Stack.h>
 #include <WiFi.h>
 
-const char* ssid = "F710_2.4G";
-const char* password = "robotgroup";
+const char *ssid = "id";
+const char *password = "password";
 
 void setup() {
     M5.begin();
